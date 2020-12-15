@@ -1,2 +1,2 @@
 # Parks_html
-Javascript version of parks.py
+Parks solver. Can be found at [http://web.602.ninja/parks](Parks).
